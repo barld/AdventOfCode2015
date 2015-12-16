@@ -53,6 +53,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <None Include="Day1.fsx" />
     <None Include="Day2.fsx" />
+    <None Include="Day3.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
